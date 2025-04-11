@@ -6,3 +6,10 @@
 - Variabler
 - Villkor
 - Loopar
+
+## Lektion 2
+
+- Gissa talet
+- Funktioer
+- AI-demo
+- Python AI intro
